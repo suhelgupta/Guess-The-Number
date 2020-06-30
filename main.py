@@ -34,5 +34,3 @@ while 1:
     else:
         break
 
-
-    #print("Sorry! u loss the game ")
